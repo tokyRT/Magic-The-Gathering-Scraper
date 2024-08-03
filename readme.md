@@ -1,2 +1,2 @@
 # Magic The Gathering Scraper 
-This server scrapes cards from query from https://scryfall.com/ 
+This API scrapes cards from query from https://scryfall.com/ 
